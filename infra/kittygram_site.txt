@@ -1,0 +1,5 @@
+IP: 89.169.162.40;
+name_taski: https://test-d.freedynamicdns.org/;
+name_kittygram: https://test-e.freedynamicdns.org/;
+login: yc-user;
+password: 1;
